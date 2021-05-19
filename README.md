@@ -2,7 +2,7 @@
 
 I'm Peter.
  - 📚 Currently studying software development at gmit.ie.
- - 🧐 Interests: Decentralisation, communication platforms, blockchain.
+ - 🧐 Interests: Decentralisation, communication platforms, blockchain, UI design.
  - 🛠 Tools I like: Svelte, Tailwind, VSCode...
  - ✉️ myname at gmail
 
