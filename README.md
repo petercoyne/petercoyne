@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Peter.
+ - 📚 Currently studying software development at gmit.ie.
+ - 🧐 Interests: Decentralisation, communication platforms, blockchain.
+ - 🛠 Tools I like: Svelte, Tailwind, VSCode...
+ - ✉️ myname at gmail
+
 <!--
 **petercoyne/petercoyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
