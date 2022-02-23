@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Peter.
- - 📚 Currently studying software development at gmit.ie.
+I'm Peter. I design and build websites using SvelteKit and TailwindCSS. My email is below if you'd like to work on something together.
+
+ - 📚 Studied software development at gmit.ie.
  - 🧐 Interests: UI design, communication & collaboration platforms, decentralisation.
- - 🛠 Tools I like: Svelte, Tailwind, VSCode...
- - ✉️ myname at gmail
+ - ✉️ myfullname @ gmail
 
 <!--
 **petercoyne/petercoyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
