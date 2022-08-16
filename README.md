@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Peter. I design and build websites using SvelteKit and TailwindCSS. My email is below if you'd like to work on something together.
+I'm Peter. My email is below if you'd like to work on something together. I'm looking to develop my Svelte and Tailwind skills.
 
- - 📚 Studied software development at gmit.ie.
- - 🧐 Interests: UI design, communication & collaboration platforms, decentralisation.
+ - 📚 Studied software development at atu.ie.
+ - 🧐 Interests: UI design, communication & collaboration platforms, decentralisation, AI.
  - ✉️ myfullname @ gmail
 
 <!--
