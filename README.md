@@ -3,7 +3,7 @@
 I'm Peter. My email is below if you'd like to work on something together. I'm looking to develop my Svelte and Tailwind skills.
 
  - 📚 Studied software development at atu.ie.
- - 🧐 Interests: UI design, communication & collaboration platforms, decentralisation, AI.
+ - 🧐 Interests: UI design, communication & collaboration platforms, decentralisation, AI, VR/AR.
  - ✉️ myfullname @ gmail
 
 <!--
